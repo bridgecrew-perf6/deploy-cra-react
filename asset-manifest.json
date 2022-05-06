@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://qinghuanI.github.io/deploy-cra-react/static/css/main.073c9b0a.css",
-    "main.js": "https://qinghuanI.github.io/deploy-cra-react/static/js/main.995aae38.js",
+    "main.js": "https://qinghuanI.github.io/deploy-cra-react/static/js/main.c844604c.js",
     "static/js/787.63601e99.chunk.js": "https://qinghuanI.github.io/deploy-cra-react/static/js/787.63601e99.chunk.js",
     "index.html": "https://qinghuanI.github.io/deploy-cra-react/index.html",
     "main.073c9b0a.css.map": "https://qinghuanI.github.io/deploy-cra-react/static/css/main.073c9b0a.css.map",
-    "main.995aae38.js.map": "https://qinghuanI.github.io/deploy-cra-react/static/js/main.995aae38.js.map",
+    "main.c844604c.js.map": "https://qinghuanI.github.io/deploy-cra-react/static/js/main.c844604c.js.map",
     "787.63601e99.chunk.js.map": "https://qinghuanI.github.io/deploy-cra-react/static/js/787.63601e99.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.995aae38.js"
+    "static/js/main.c844604c.js"
   ]
 }
