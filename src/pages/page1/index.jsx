@@ -1,4 +1,4 @@
 
 export default function Page1() {
-    return <div>Page1</div>;
+    return <div>this is Page1 page</div>;
 }
