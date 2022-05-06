@@ -6,12 +6,12 @@ import reportWebVitals from './reportWebVitals';
 
 import { BrowserRouter as Router} from "react-router-dom";
 
-const isDev = process.env.NODE_ENV === 'development';
+// const isDev = process.env.NODE_ENV === 'development';
 
 console.log(process.env);
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <Router basename={isDev ?  '/' : '/deploy-cra-react'}>
+  <Router>
     <App />
   </Router>
 );
