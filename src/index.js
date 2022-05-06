@@ -4,13 +4,13 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-import { HashRouter as Router} from "react-router-dom";
+import { BrowserRouter as Router} from "react-router-dom";
 
 const isDev = process.env.NODE_ENV === 'development';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <Router>
+  <Router basename={isDev ?  '/' : '/deploy-cra-react'}>
     <App />
   </Router>
 );
